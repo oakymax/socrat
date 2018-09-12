@@ -1,0 +1,23 @@
+{
+  "name": "socrat",
+  "version": "1.0.0",
+  "description": "A collection of public articles links on various IT themes",
+  "main": "index.js",
+  "dependencies": {
+    "docusaurus": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oakymax/socrat.git"
+  },
+  "author": "oakymax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oakymax/socrat/issues"
+  },
+  "homepage": "https://github.com/oakymax/socrat#readme"
+}
